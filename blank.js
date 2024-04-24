@@ -1,4 +1,4 @@
-const path = "//https://nebula-two-smoky.vercel.app/"
+const path = "https://nebula-two-smoky.vercel.app/"
 
 function blank(){
   var w = window.open("about:blank", "_blank")
